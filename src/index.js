@@ -11,7 +11,7 @@ class App extends Component {
   constructor(props) {
     super(props);
 
-    this.search = YoutubeSearch({ key: 'AIzaSyBMC6TKNgaO8ynhaKm6c-0TYsXNzSJXkO8' });
+    this.search = YoutubeSearch({ key: 'AIzaSyCuqihO8S2QTWGtyGB_aa5dPfnHPhKQOns' });
 
     this.state = {
       videos: [],
